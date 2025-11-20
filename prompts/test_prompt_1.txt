@@ -1,0 +1,7 @@
+Vartotojo įvestis:
+Nuotaika: ramus vakaras
+Pageidaujami žanrai: drama, romance
+Maksimali trukmė: 120 min.
+
+Užduotis:
+Sugeneruok 2 filmų rekomendacijas ir paaiškink, kodėl būtent šie filmai tinka pagal pateiktus kriterijus.

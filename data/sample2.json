@@ -1,0 +1,19 @@
+{
+  "X": {
+    "mood": "noriu veiksmo",
+    "genres": ["action", "sci-fi"],
+    "max_duration": 150
+  },
+  "y": {
+    "recommended_movies": [
+      {
+        "title": "Edge of Tomorrow",
+        "explanation": "Intensyvus veiksmas, mokslinė fantastika ir greitas tempas atitinka tavo įvestus kriterijus."
+      },
+      {
+        "title": "Mad Max: Fury Road",
+        "explanation": "Labai dinamiškas, kupinas adrenalino filmas puikiai tinkantis veiksmo nuotaikai."
+      }
+    ]
+  }
+}

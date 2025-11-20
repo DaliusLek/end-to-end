@@ -1,0 +1,19 @@
+{
+  "X": {
+    "mood": "noriu kažko juokingo",
+    "genres": ["comedy"],
+    "max_duration": 100
+  },
+  "y": {
+    "recommended_movies": [
+      {
+        "title": "21 Jump Street",
+        "explanation": "Lengvas humoras, greitas tempas ir paprastas siužetas puikiai tinka juokingai nuotaikai."
+      },
+      {
+        "title": "Superbad",
+        "explanation": "Klasikinė komedija su jaunatvišku humoru, puikiai atitinka tavo pageidavimus."
+      }
+    ]
+  }
+}

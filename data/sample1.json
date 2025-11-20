@@ -1,0 +1,19 @@
+{
+  "X": {
+    "mood": "ramus vakaras",
+    "genres": ["drama", "romance"],
+    "max_duration": 120
+  },
+  "y": {
+    "recommended_movies": [
+      {
+        "title": "La La Land",
+        "explanation": "Filmas atitinka ramią nuotaiką ir turi švelnų, emocinį toną. Žanrai sutampa su tavo pageidautais."
+      },
+      {
+        "title": "Before Sunrise",
+        "explanation": "Puikiai tinka ramiam vakarui, daug dialogų, introspekcija ir romantika."
+      }
+    ]
+  }
+}
