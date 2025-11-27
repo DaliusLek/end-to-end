@@ -1,0 +1,8 @@
+Vartotojo įvestis:
+
+Nuotaika: noriu kažko juokingo
+Pageidaujami žanrai: comedy
+Maksimali trukmė: 100 min.
+
+Užduotis:
+Sugeneruok 2 filmų rekomendacijas ir paaiškink, kodėl būtent šie filmai tinka pagal pateiktus kriterijus.
