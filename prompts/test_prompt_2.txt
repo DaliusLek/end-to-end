@@ -1,0 +1,7 @@
+Vartotojo įvestis:
+Nuotaika: noriu veiksmo
+Pageidaujami žanrai: action, sci-fi
+Maksimali trukmė: 150 min.
+
+Užduotis:
+Sugeneruok 2 filmų rekomendacijas ir paaiškink, kodėl būtent šie filmai tinka pagal pateiktus kriterijus.
